@@ -8,6 +8,9 @@
 **Chakra UI**
 https://v2.chakra-ui.com/
 
+**Tailwind CSS**
+https://tailwindcss.com/docs/installation
+
 ```
 nvm install 18.20.2
 npm install
